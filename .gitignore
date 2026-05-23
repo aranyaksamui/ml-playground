@@ -1,0 +1,25 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter / Colab notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Local configuration and credentials
+.env*
+.ipynb_checkpoints/
+.virtualenv/
+env/
+venv/
+ENV/
+
+# Data and large files (avoids uploading heavy datasets)
+data/*
+!data/README.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
