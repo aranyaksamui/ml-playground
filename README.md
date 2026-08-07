@@ -17,4 +17,4 @@ To work with any notebook in this repository:
 
 1. Navigate to the `notebooks/` directory.
 2. Select the notebook you want to explore.
-3. Open it directly in Google Colab or download it in your local Jupyter Notebook setup to run or edit the code.
+3. Open it directly in Google Colab or Jupyter Notebook to run or edit the code.
