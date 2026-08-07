@@ -1,6 +1,6 @@
 # ML Playground
 
-This repository is a compilation of my go-to testing and learning Machine Learning projects and notebooks. It serves as an all-in-one machine learning testing and playground environment.
+This repository is a compilation of my go-to learning and experimenting with Machine Learning projects and notebooks. It serves as an all-in-one machine learning testing and playground environment.
 
 ## Repository Structure
 
@@ -17,4 +17,4 @@ To work with any notebook in this repository:
 
 1. Navigate to the `notebooks/` directory.
 2. Select the notebook you want to explore.
-3. Open it directly in Google Colab to run or edit the code.
+3. Open it directly in Google Colab or download it in your local Jupyter Notebook setup to run or edit the code.
